@@ -1,0 +1,1 @@
+export const rickAndMortyApiUrl = "https://rickandmortyapi.com/api"
